@@ -1,0 +1,59 @@
+*{
+     
+     background-color:purple;
+}
+p{
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.heading1 {
+  font-family: "Leckerli One", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.heading2 {
+     background-color:blueviolet;
+
+}
+.heading3{
+     
+     background-color:lawngreen;
+}
+.heading4{
+      font-family: "Leckerli One", cursive;
+  font-weight: 400;
+  font-style: normal;
+     color:brown;
+     background-color:aquamarine;
+}
+.heading5{
+     background-color:blue;
+}
+.heading6{
+     background-color:blueviolet;
+     color:blanchedalmond;
+}
+p{
+     color:black;
+     background-color:rgb(255, 127, 217);
+     
+}
+ .para6{
+     background-color:rgb(226, 192, 43);
+}
+.para2{
+     background-color: brown;;
+}
+.para3{
+     background-color:mediumvioletred;
+}
+.para4{
+     background-color: blanchedalmond;
+}
+.para5{
+     background-color: rgb(0, 255, 85);
+}
+
+
+
+
+
